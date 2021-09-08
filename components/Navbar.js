@@ -12,7 +12,7 @@ const NavBar = () => {
 							viewBox="0 0 24 24"
 							src="./images/tox.svg"
 							alt="logo"
-							width="30"
+							width="31"
 						/>
 					</a>
 					<nav class="md:ml-auto flex flex-wrap items-center text-base font-mono font-extrabold cursor-pointer justify-center">
