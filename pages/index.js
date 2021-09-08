@@ -9,18 +9,18 @@ import NavBar from "../components/NavBar";
 
 
 export default function Home() {
-	const navigation = [
-		{ name: "HOME", href: "#home" , current: true },
-		{ name: "ABOUT US", href: "#about", current: false },
-		{ name: "PRODUCTS", href: "#products", current: false },
-	];
+	// const navigation = [
+	// 	{ name: "HOME", href: "#home" , current: true },
+	// 	{ name: "ABOUT US", href: "#about", current: false },
+	// 	{ name: "PRODUCTS", href: "#products", current: false },
+	// ];
 	return (
 		<div>
 			<Head>
 				<title>Toxiik</title>
 				<link rel="icon" href="/favicon.ico" />
 			</Head>
-			<NavBar navigation={navigation} />
+			<NavBar/>
 			<Header />
 			<AboutUs />
 			<Products/>
