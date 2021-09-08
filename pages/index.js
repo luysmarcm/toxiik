@@ -4,7 +4,7 @@ import Footer from "../components/Footer";
 import { Header } from "../components/Header";
 import Products from "../components/Products";
 import ToxiikUni from "../components/ToxiikUni";
-import NavBar from "../components/NavBar";
+
 
 
 
@@ -20,7 +20,6 @@ export default function Home() {
 				<title>Toxiik</title>
 				<link rel="icon" href="/favicon.ico" />
 			</Head>
-			<NavBar/>
 			<Header />
 			<AboutUs />
 			<Products/>
