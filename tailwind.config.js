@@ -7,7 +7,7 @@ module.exports = {
 			backgroundImage: (theme) => ({
 				//"banner": "url('/images/prueba7.jpg')",
 				fondoT: "url('/images/Fondo7.jpg')",
-				banner: "url('/images/fondo20.svg')",
+				banner: "url('/images/banner30.png')",
 				toxiik: "url('/images/toxiikW.svg')",
 				monta: "url('/images/8.svg')",
 				//"footer-texture": "url('/img/footer-texture.png')",
@@ -25,6 +25,18 @@ module.exports = {
 				xl: ["24px", "32px"],
 				xxl: ["28px", "38px"],
 			},
+			// animation: {
+			// 	fadeIn: "fadeIn 2s ease-in forwards",
+			// },
+			// keyframes: {
+			// 	fadeIn: {
+			// 		"0%": { opacity: 0 },
+			// 		"100%": { opacity: 1 },
+			// 	},
+			// },
+			// variants: {
+			// 	animation: ["motion-safe"],
+			// },
 		},
 	},
 	variants: {
