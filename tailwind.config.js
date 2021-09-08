@@ -7,7 +7,7 @@ module.exports = {
 			backgroundImage: (theme) => ({
 				//"banner": "url('/images/prueba7.jpg')",
 				fondoT: "url('/images/Fondo7.jpg')",
-				banner: "url('/images/banner30.png')",
+				banner: "url('/images/banner.jpg)",
 				toxiik: "url('/images/toxiikW.svg')",
 				monta: "url('/images/8.svg')",
 				//"footer-texture": "url('/img/footer-texture.png')",
