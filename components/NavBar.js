@@ -1,6 +1,11 @@
 import { Disclosure, Menu, Transition } from "@headlessui/react";
 import { MenuIcon, XIcon } from "@heroicons/react/outline";
 
+
+function classNames(...classes) {
+	return classes.filter(Boolean).join(" ");
+}
+
 const NavBar = ({ navigation }) => {
 	return (
 		<Disclosure as="nav" className="bg-black fixed z-50 w-full">
@@ -35,12 +40,12 @@ const NavBar = ({ navigation }) => {
 											<a
 												key={item.name}
 												href={item.href}
-												// className={classNames(
-												// 	item.current
-												// 		? "bg-primary text-white"
-												// 		: "text-gray-300 hover:bg-primary hover:text-white",
-												// 	"px-3 py-2 rounded-md text-sm font-medium"
-												// )}
+												className={classNames(
+													item.current
+														? "bg-primary text-white"
+														: "text-gray-300 hover:bg-primary hover:text-white",
+													"px-3 py-2 rounded-md text-sm font-medium"
+												)}
 												aria-current={item.current ? "page" : undefined}
 											>
 												{item.name}
@@ -58,12 +63,12 @@ const NavBar = ({ navigation }) => {
 								<a
 									key={item.name}
 									href={item.href}
-									// className={classNames(
-									// 	item.current
-									// 		? "bg-primary text-white"
-									// 		: "text-gray-300 hover:bg-primary hover:text-white",
-									// 	"block px-3 py-2 rounded-md text-base font-medium"
-									// )}
+                                        className={classNames(
+                                            item.current
+                                                ? "bg-primary text-white"
+                                                : "text-gray-300 hover:bg-primary hover:text-white",
+                                            "block px-3 py-2 rounded-md text-base font-medium"
+                                        )}
 									aria-current={item.current ? "page" : undefined}
 								>
 									{item.name}
