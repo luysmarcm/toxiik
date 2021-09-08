@@ -21,7 +21,7 @@ export default function Home() {
 				<title>Toxiik</title>
 				<link rel="icon" href="/favicon.ico" />
 			</Head>
-			<NavBar/>
+			<NavBar navigation={navigation}/>
 			<Header />
 			<AboutUs />
 			<Products/>
