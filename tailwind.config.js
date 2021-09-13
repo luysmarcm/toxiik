@@ -62,7 +62,7 @@ module.exports = {
 				banner: "url('/images/banner.jpg')",
 				toxiik: "url('/images/toxiikW.svg')",
 				monta: "url('/images/8.svg')",
-				letra: "url('/images/CHARGEYOURDREAMS.svg')",
+				letra: "url('/images/CHARGE.svg')",
 				//"footer-texture": "url('/img/footer-texture.png')",
 			}),
 			colors: {
