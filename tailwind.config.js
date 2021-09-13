@@ -4,7 +4,7 @@ module.exports = {
 	darkMode: false, // or 'media' or 'class'
 	theme: {
 		screens: {
-			xs:"320px",
+			xs: "320px",
 			sm: "640px",
 			// => @media (min-width: 640px) { ... }
 
@@ -62,6 +62,7 @@ module.exports = {
 				banner: "url('/images/banner.jpg')",
 				toxiik: "url('/images/toxiikW.svg')",
 				monta: "url('/images/8.svg')",
+				letra: "url('/images/chargeyourdreams.svg')",
 				//"footer-texture": "url('/img/footer-texture.png')",
 			}),
 			colors: {

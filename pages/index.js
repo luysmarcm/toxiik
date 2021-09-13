@@ -21,12 +21,18 @@ export default function Home() {
 				<title>Toxiik</title>
 				<link rel="icon" href="/favicon.ico" />
 			</Head>
-			<NavBar navigation={navigation}/>
-			<Header />
-			<AboutUs />
-			<Products/>
-			<ToxiikUni />
-			<Footer />
+			<header>
+				<NavBar navigation={navigation} />
+				<Header />
+			</header>
+			<main>
+				<AboutUs />
+				<Products />
+				<ToxiikUni />
+			</main>
+			<footer>
+				<Footer />
+			</footer>
 		</div>
 	);
 }

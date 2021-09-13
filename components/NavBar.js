@@ -31,7 +31,7 @@ const NavBar = ({ navigation }) => {
 										viewBox="0 0 24 24"
 										src="./images/tox.svg"
 										alt="logo"
-										width="30"
+										width="35"
 									/>
 								</div>
 								<div className="hidden sm:block sm:ml-6">
