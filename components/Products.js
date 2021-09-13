@@ -5,10 +5,7 @@ const Products = () => {
 		<section id="products" class="relative w-auto py-10">
 			<div className="text-primary font-mont font-extrabold py-16 text-center text-4xl lg:text-8x1">
 				OUR PRODUCTS
-				<div className="stroke-current text-current">
-					{" "}
-					Text
-				</div>
+				
 			</div>
 			<div className="w-scream grid grid-cols-4 ">
 				<div className="flex flex-col col-span-4 md:col-span-2 lg:row-span-2 lg:p-14">
@@ -45,7 +42,7 @@ const Products = () => {
 						<div className="flex flex-col p-5 lg:flex-row items-center">
 							<img
 								className="object-cover h-80 lg:h-80"
-								src="./images/cargadorp.jpeg"
+								src="./images/7.png"
 								alt=""
 								//width="100px"
 							/>

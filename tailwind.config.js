@@ -59,7 +59,7 @@ module.exports = {
 			backgroundImage: (theme) => ({
 				//"banner": "url('/images/prueba7.jpg')",
 				fondoT: "url('/images/Fondo7.jpg')",
-				banner: "url('/images/banner.jpg')",
+				banner: "url('/images/banner3.jpg')",
 				toxiik: "url('/images/toxiikW.svg')",
 				monta: "url('/images/8.svg')",
 				letra: "url('/images/CHARGE.svg')",
