@@ -7,11 +7,11 @@ const Products = () => {
 				OUR PRODUCTS
 			</div>
 			<div className="grid lg:grid-cols-4 xl:grid-cols-4 ">
-				<div className="flex flex-col col-span-4 md:col-span-2 lg:row-span-2 lg:p-14">
-					<div className="flex-1 aspect-w-4 aspect-h-3 lg:aspect-h-4">
-						<div className="flex flex-col p-12 lg:flex-row items-center">
+				<div className="flex flex-col col-span-4 lg:col-span-2 lg:row-span-2 lg:p-14">
+					<div className="flex justify-center aspect-w-4 aspect-h-3 lg:aspect-h-4 ">
+						<div className="flex flex-row p-12 md:flex-row	 lg:flex-row items-center">
 							<img
-								className="object-cover h-80 lg:h-4/5 xl:h-full"
+								className="object-cover h-80 md:h-auto lg:h-4/5 xl:h-full"
 								src="./images/cargadorp.jpeg"
 								alt=""
 								//width="200px"
@@ -35,11 +35,11 @@ const Products = () => {
 					</div>
 				</div>
 
-				<div className="flex flex-col col-span-4 md:col-span-2  xl:col-span-1">
-					<div className="flex-1 aspect-w-4 aspect-h-3 ">
-						<div className="flex flex-col p-12 lg:flex-row items-center">
+				<div className="flex flex-col col-span-4  lg:col-span-2  xl:col-span-1">
+					<div className="flex justify-center aspect-w-4 aspect-h-3 lg:aspect-h-4 ">
+						<div className="flex p-12 md:flex-row md:items-center lg:flex-row items-center">
 							<img
-								className="object-cover h-80 lg:h-80"
+								className="object-cover h-80 md:h-auto lg:h-80"
 								src="./images/cargadorp.jpeg"
 								alt=""
 								//width="100px"
@@ -55,18 +55,15 @@ const Products = () => {
 								<div className="text-black font-mont font-extrabold bg-left-top bg-clip-text text-transparent	bg-fondoT bg-cover text-5xl ">
 									GER
 								</div>
-								{/* <div className="text-black font-mont font-extrabold text-2xl lx:text-1xl">
-									travel
-								</div> */}
 							</div>
 						</div>
 					</div>
 				</div>
-				<div className="flex flex-col col-span-4 md:col-span-2  xl:col-span-1">
-					<div className="flex-1 aspect-w-4 aspect-h-3 ">
-						<div className="flex flex-col p-12 lg:flex-row items-center">
+				<div className="flex flex-col col-span-4 lg:col-span-2  xl:col-span-1">
+					<div className="flex justify-center aspect-w-4 aspect-h-3 lg:aspect-h-4 ">
+						<div className="flex p-12  md:flex-row lg:flex-row items-center">
 							<img
-								className="object-cover h-80 lg:h-80"
+								className="object-cover h-80 md:h-auto lg:h-80"
 								src="./images/cargadorp.jpeg"
 								alt=""
 								//width="100px"
@@ -82,18 +79,15 @@ const Products = () => {
 								<div className="text-black font-mont font-extrabold bg-left-top bg-clip-text text-transparent	bg-fondoT bg-cover text-5xl ">
 									GER
 								</div>
-								{/* <div className="text-black font-mont font-extrabold text-2xl lx:text-1xl">
-									travel
-								</div> */}
 							</div>
 						</div>
 					</div>
 				</div>
-				<div className="flex flex-col col-span-4 md:col-span-2  xl:col-span-1">
-					<div className="flex-1 aspect-w-4 aspect-h-3 ">
-						<div className="flex flex-col p-12 lg:flex-row items-center lg:items-center">
+				<div className="flex flex-col col-span-4 lg:col-span-2  xl:col-span-1">
+					<div className="flex justify-center aspect-w-4 aspect-h-3 lg:aspect-h-4 ">
+						<div className="flex p-12 md:flex-row lg:flex-row items-center lg:items-center">
 							<img
-								className="object-cover h-80 lg:h-80"
+								className="object-cover h-80 md:h-auto lg:h-80"
 								src="./images/cargadorp.jpeg"
 								alt=""
 								//width="100px"
@@ -109,18 +103,15 @@ const Products = () => {
 								<div className="text-black font-mont font-extrabold bg-left-top bg-clip-text text-transparent	bg-fondoT bg-cover text-5xl ">
 									GER
 								</div>
-								{/* <div className="text-black font-mont font-extrabold text-2xl lx:text-1xl">
-									travel
-								</div> */}
 							</div>
 						</div>
 					</div>
 				</div>
-				<div className="flex flex-col col-span-4 md:col-span-2  xl:col-span-1">
-					<div className="flex-1 aspect-w-2 aspect-h-1 ">
-						<div className="flex flex-col p-12 lg:flex-row items-center">
+				<div className="flex flex-col col-span-4 lg:col-span-2  xl:col-span-1">
+					<div className="flex justify-center aspect-w-4 aspect-h-3 lg:aspect-h-4">
+						<div className="flex  p-12 md:flex-row lg:flex-row items-center">
 							<img
-								className="object-cover h-80 lg:h-80"
+								className="object-cover h-80 md:h-auto lg:h-80"
 								src="./images/cargadorp.jpeg"
 								alt=""
 								//width="100px"

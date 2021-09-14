@@ -3,23 +3,19 @@ import React from "react";
 const ToxiikUni = () => {
 	return (
 		<section class="relative w-auto">
-			<div
-				className="flex flex-col p-10 lg:flex-row items-center gap-12 lg:p-28 lg:h-3/4 xl:p-28"
-			>
+			<div className="flex flex-col p-10 lg:flex-row items-center gap-12 lg:p-28 lg:h-3/4 xl:p-28">
 				<div className="flex flex-1 flex-col items-center lg:items-start lg:h-1/5 xl:items-start xl:w-1/2">
 					<div
-						className="font-bold bg-clip-text text-transparent bg-fondoT bg-cover bg-left text-bookmark-blue 
+						className="flex flex-col font-bold bg-clip-text -space-y-2 bg-left-bottom lg:bg-left-top  text-transparent bg-fondoT bg-cover 
 							text-6xl md:text-4 lg:text-7xl text-center lg:text-left mb-6 lg:h-1/5 xl:text-9xl xl:h-3/4"
 					>
-						TOXIIK
+						TOXIIK UNIVERSE
 					</div>
-					<div
+					{/* <div
 						className="font-bold bg-clip-text text-transparent bg-fondoT bg-cover text-bookmark-blue text-6xl 
 							md:text-4 lg:text-7xl bg-left-top text-center lg:text-left lg:h-1/5
 							xl:text-9xl xl:h-3/4 mb-6"
-					>
-						UNIVERSE
-					</div>
+					></div> */}
 					{/* <div
 						className="bg-clip-text text-transparent bg-fondoT bg-left-top text-6xl text-center 
 							lg:text-left lg:text-9xl mb-6"
@@ -34,7 +30,7 @@ const ToxiikUni = () => {
 
 				<div className="flex justify-center flex-1 ">
 					<img
-						className="sm:w-8/12 sm:h-3/5 md:w-8/12 md:h-3/5"
+						className="w-8/12 sm:h-3/5 md:w-8/12 md:h-3/5"
 						src="./images/cargador1.png"
 						alt="Cargador"
 					/>
