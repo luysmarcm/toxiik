@@ -10,8 +10,6 @@ class MyDocument extends Document {
 		return (
 			<Html lang="en-En">
 				<Head>
-					<title>Toxiik</title>
-					<meta name="description" content=" " />
 					<meta name="theme-color" content="#00000" />
 					<link rel="icon" href="/favicon.ico" />
 					<link rel="preconnect" href="https://fonts.gstatic.com" />

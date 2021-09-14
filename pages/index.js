@@ -5,6 +5,7 @@ import { Header } from "../components/Header";
 import NavBar from "../components/NavBar";
 import Products from "../components/Products";
 import ToxiikUni from "../components/ToxiikUni";
+import SeoComponent from "../components/SeoComponent";
 
 
 
@@ -22,6 +23,11 @@ export default function Home() {
 				
 				<link rel="icon" href="/favicon.ico" />
 			</Head> */}
+			<SeoComponent
+				title="Toxiik"
+				description="Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+				image="/images/imagen.png"
+			/>
 			<header>
 				<NavBar navigation={navigation} />
 				<Header />
