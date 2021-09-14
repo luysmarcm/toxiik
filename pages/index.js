@@ -26,7 +26,7 @@ export default function Home() {
 				<Header />
 			</header>
 			<main>
-				<AboutUs />
+				<AboutUs/>
 				<Products />
 				<ToxiikUni />
 			</main>

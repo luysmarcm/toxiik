@@ -5,7 +5,7 @@ const AboutUs = () => {
 
 	
     return (
-			<section id="about" class="relative bg-black lg:py-32">
+			<section id="about" class="relative bg-black p-10lg:py-32">
 				<div
 					// class="flex flex-col py-28 px-28 lg:flex-row items-center gap-12"
 					className="flex flex-col-reverse p-10 lg:flex-row items-center gap-12 sm:gap-10 lg:p-8"

@@ -15,6 +15,7 @@ export const Header = () => {
 							<div
 								class="absolute z-40 inset-x-0 bottom-0  bg-letra bg-auto bg-no-repeat bg-center
 								h-3
+								md:h-5
 								-translate-y-48
 								lg:h-7 lg:-translate-y-24"
 							></div>
