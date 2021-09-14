@@ -11,7 +11,7 @@ import ToxiikUni from "../components/ToxiikUni";
 
 export default function Home() {
 	const navigation = [
-		{ name: "HOME", href: "#home" , current: true },
+		{ name: "HOME", href: "#home" , current: false },
 		{ name: "ABOUT US", href: "#about", current: false },
 		{ name: "PRODUCTS", href: "#products", current: false },
 	];

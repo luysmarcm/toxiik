@@ -9,7 +9,7 @@ const Products = () => {
 			<div className="grid lg:grid-cols-4 xl:grid-cols-4 ">
 				<div className="flex flex-col col-span-4 lg:col-span-2 lg:row-span-2 lg:p-14">
 					<div className="flex justify-center aspect-w-4 aspect-h-3 lg:aspect-h-4 ">
-						<div className="flex flex-row p-12 -space-x-9 md:flex-row	 lg:flex-row items-center">
+						<div className="flex flex-row p-12 -space-x-9 lg:-space-x-0 md:flex-row	 lg:flex-row items-center">
 							<img
 								className="object-cover h-80 md:h-auto lg:h-4/5 xl:h-full"
 								src="./images/cargadorp.jpeg"
@@ -37,7 +37,7 @@ const Products = () => {
 
 				<div className="flex flex-col col-span-4  lg:col-span-2  xl:col-span-1">
 					<div className="flex justify-center aspect-w-4 aspect-h-3 lg:aspect-h-4 ">
-						<div className="flex p-12 -space-x-9 md:flex-row md:items-center lg:flex-row items-center">
+						<div className="flex p-12 -space-x-9 lg:-space-x-0 md:flex-row md:items-center lg:flex-row items-center">
 							<img
 								className="object-cover h-80 md:h-auto lg:h-80"
 								src="./images/cargadorp.jpeg"
@@ -49,10 +49,10 @@ const Products = () => {
 									FAST
 								</div>
 
-								<div className="font-mont font-extrabold bg-clip-text text-transparent text-4xl bg-fondoT bg-cover bg-left lg:text-5xl xl:text-7xl ">
+								<div className="font-mont font-extrabold bg-clip-text text-transparent text-4xl bg-fondoT bg-cover bg-left lg:text-5xl xl:text-6xl ">
 									CHAR
 								</div>
-								<div className="text-black font-mont font-extrabold bg-left-top bg-clip-text text-transparent text-4xl	bg-fondoT bg-cover lg:text-5xl xl:text-7xl ">
+								<div className="text-black font-mont font-extrabold bg-left-top bg-clip-text text-transparent text-4xl	bg-fondoT bg-cover lg:text-5xl xl:text-6xl ">
 									GER
 								</div>
 								{/* <div className="text-black font-mont font-extrabold text-2xl lx:text-1xl">
@@ -64,7 +64,7 @@ const Products = () => {
 				</div>
 				<div className="flex flex-col col-span-4 lg:col-span-2  xl:col-span-1">
 					<div className="flex justify-center aspect-w-4 aspect-h-3 lg:aspect-h-4 ">
-						<div className="flex p-12 -space-x-9  md:flex-row lg:flex-row items-center">
+						<div className="flex p-12 -space-x-9  lg:-space-x-0 md:flex-row lg:flex-row items-center">
 							<img
 								className="object-cover h-80 md:h-auto lg:h-80"
 								src="./images/cargadorp.jpeg"
@@ -76,10 +76,10 @@ const Products = () => {
 									FAST
 								</div>
 
-								<div className="font-mont font-extrabold bg-clip-text text-transparent text-4xl bg-fondoT bg-cover bg-left lg:text-5xl xl:text-7xl ">
+								<div className="font-mont font-extrabold bg-clip-text text-transparent text-4xl bg-fondoT bg-cover bg-left lg:text-5xl xl:text-6xl ">
 									CHAR
 								</div>
-								<div className="text-black font-mont font-extrabold bg-left-top bg-clip-text text-transparent text-4xl	bg-fondoT bg-cover lg:text-5xl xl:text-7xl ">
+								<div className="text-black font-mont font-extrabold bg-left-top bg-clip-text text-transparent text-4xl	bg-fondoT bg-cover lg:text-5xl xl:text-6xl ">
 									GER
 								</div>
 								{/* <div className="text-black font-mont font-extrabold text-2xl lx:text-1xl">
@@ -91,7 +91,7 @@ const Products = () => {
 				</div>
 				<div className="flex flex-col col-span-4 lg:col-span-2  xl:col-span-1">
 					<div className="flex justify-center aspect-w-4 aspect-h-3 lg:aspect-h-4 ">
-						<div className="flex p-12 -space-x-9 md:flex-row lg:flex-row items-center lg:items-center">
+						<div className="flex p-12 -space-x-9 lg:-space-x-0 md:flex-row lg:flex-row items-center lg:items-center">
 							<img
 								className="object-cover h-80 md:h-auto lg:h-80"
 								src="./images/cargadorp.jpeg"
@@ -103,10 +103,10 @@ const Products = () => {
 									FAST
 								</div>
 
-								<div className="font-mont font-extrabold bg-clip-text text-transparent text-4xl bg-fondoT bg-cover bg-left lg:text-5xl xl:text-7xl ">
+								<div className="font-mont font-extrabold bg-clip-text text-transparent text-4xl bg-fondoT bg-cover bg-left lg:text-5xl xl:text-6xl ">
 									CHAR
 								</div>
-								<div className="text-black font-mont font-extrabold bg-left-top bg-clip-text text-transparent text-4xl	bg-fondoT bg-cover lg:text-5xl xl:text-7xl ">
+								<div className="text-black font-mont font-extrabold bg-left-top bg-clip-text text-transparent text-4xl	bg-fondoT bg-cover lg:text-5xl xl:text-6xl ">
 									GER
 								</div>
 								{/* <div className="text-black font-mont font-extrabold text-2xl lx:text-1xl">
@@ -118,7 +118,7 @@ const Products = () => {
 				</div>
 				<div className="flex flex-col col-span-4 lg:col-span-2  xl:col-span-1">
 					<div className="flex justify-center aspect-w-4 aspect-h-3 lg:aspect-h-4">
-						<div className="flex  p-12 -space-x-9 md:flex-row lg:flex-row items-center">
+						<div className="flex  p-12 -space-x-9 lg:-space-x-0 md:flex-row lg:flex-row items-center">
 							<img
 								className="object-cover h-80 md:h-auto lg:h-80"
 								src="./images/cargadorp.jpeg"
@@ -130,10 +130,10 @@ const Products = () => {
 									FAST
 								</div>
 
-								<div className="font-mont font-extrabold bg-clip-text text-transparent text-4xl bg-fondoT bg-cover bg-left lg:text-5xl xl:text-7xl ">
+								<div className="font-mont font-extrabold bg-clip-text text-transparent text-4xl bg-fondoT bg-cover bg-left lg:text-5xl xl:text-6xl ">
 									CHAR
 								</div>
-								<div className="text-black font-mont font-extrabold bg-left-top bg-clip-text text-transparent text-4xl	bg-fondoT bg-cover lg:text-5xl xl:text-7xl ">
+								<div className="text-black font-mont font-extrabold bg-left-top bg-clip-text text-transparent text-4xl	bg-fondoT bg-cover lg:text-5xl xl:text-6xl ">
 									GER
 								</div>
 								{/* <div className="text-black font-mont font-extrabold text-2xl lx:text-1xl">

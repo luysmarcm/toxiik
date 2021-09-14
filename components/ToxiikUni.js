@@ -21,7 +21,7 @@ const ToxiikUni = () => {
 							lg:text-left lg:text-9xl mb-6"
 					></div> */}
 
-					<div className="text-black font-mont font-normal text-2xl text-center lg:text-left mb-6 lg:text-base xl:text-base  ">
+					<div className="text-black font-mont font-normal text-base text-center lg:text-left mb-6 lg:text-base xl:text-base  ">
 						Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus
 						sollicitudin risus sed libero facilisis, suscipit euismod metus
 						pretium.
