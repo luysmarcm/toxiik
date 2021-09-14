@@ -20,13 +20,13 @@ const AboutUs = () => {
 							>
 								<figure className=" z-0 md:flex rounded-xl md:p-0">
 									<div className="pt-6 md:p-20 text-center md:text-left space-y-4">
-										<h1 className="text-white  font-mont text-5xl -translate-x-28 font-extrabold lg:text-9xl lg:-translate-x-48">
+										<h1 className="text-white  font-mont text-4xl -translate-x-16 font-extrabold lg:text-9xl lg:-translate-x-48">
 											FAST
 										</h1>
-										<h1 className="text-white font-mont font-extrabold text-5xl lg:text-9xl ">
+										<h1 className="text-white font-mont font-extrabold text-4xl lg:text-9xl ">
 											FAST
 										</h1>
-										<h1 className="text-white translate-x-16 font-mont text-4xl font-normal lg:text-6xl">
+										<h1 className="text-white translate-x-10 font-mont text-3xl font-normal lg:text-6xl">
 											CHARGING
 										</h1>
 									</div>
@@ -38,7 +38,7 @@ const AboutUs = () => {
 						//class="flex flex-1 flex-col items-center lg:items-start"
 						className="flex flex-1 flex-col items-center p-4 lg:items-start"
 					>
-						<div className="text-primary font-mont font-extrabold py-8 text-center text-5xl lg:text-xxl lg:text-left">
+						<div className="text-primary font-mont font-extrabold py-8 text-center text-5xl lg:text-4xl lg:text-left">
 							ABOUT US
 						</div>
 

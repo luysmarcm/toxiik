@@ -4,7 +4,7 @@ module.exports = {
 	darkMode: false, // or 'media' or 'class'
 	theme: {
 		screens: {
-			xs: "320px",
+			xs: "280px",
 			sm: "640px",
 			// => @media (min-width: 640px) { ... }
 
@@ -20,7 +20,6 @@ module.exports = {
 			"2xl": "1536px",
 			// => @media (min-width: 1536px) { ... }
 		},
-		
 
 		extend: {
 			backgroundImage: (theme) => ({

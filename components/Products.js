@@ -6,7 +6,7 @@ const Products = () => {
 			<div className="text-primary font-mont font-extrabold py-16 text-center text-4xl lg:text-8x1 xl:text-9x1">
 				OUR PRODUCTS
 			</div>
-			<div className="grid lg:grid-cols-4 xl:grid-cols-4 ">
+			<div className="grid lg:grid-cols-4 xl:grid-cols-4 xl:px-24">
 				<div className="flex flex-col col-span-4 lg:col-span-2 lg:row-span-2 lg:p-14">
 					<div className="flex justify-center aspect-w-4 aspect-h-3 lg:aspect-h-4 ">
 						<div className="flex flex-row p-12 -space-x-9 lg:-space-x-0 md:flex-row	 lg:flex-row items-center">
