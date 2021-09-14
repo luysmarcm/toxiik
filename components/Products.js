@@ -21,10 +21,10 @@ const Products = () => {
 									FAST
 								</div>
 
-								<div className="font-mont font-extrabold bg-clip-text text-transparent text-4xl bg-fondoT bg-cover bg-left lg:text-5xl xl:text-7xl ">
+								<div className="font-mont font-extrabold bg-clip-text text-transparent text-4xl bg-fondoT bg-cover bg-left lg:text-5xl xl:text-6xl ">
 									CHAR
 								</div>
-								<div className="text-black font-mont font-extrabold bg-left-top bg-clip-text text-transparent text-4xl	bg-fondoT bg-cover lg:text-5xl xl:text-7xl ">
+								<div className="text-black font-mont font-extrabold bg-left-top bg-clip-text text-transparent text-4xl	bg-fondoT bg-cover lg:text-5xl xl:text-6xl ">
 									GER
 								</div>
 								{/* <div className="text-black font-mont font-extrabold text-2xl lx:text-1xl">
@@ -45,14 +45,14 @@ const Products = () => {
 								//width="100px"
 							/>
 							<div className="flex-col -space-y-2 p-10 lg:p-0 ">
-								<div className="text-black font-mont font-normal text-3xl lx:text-1xl">
+								<div className="text-black font-mont font-normal text-3xl xl:text-2xl">
 									FAST
 								</div>
 
-								<div className="font-mont font-extrabold bg-clip-text text-transparent text-4xl bg-fondoT bg-cover bg-left lg:text-5xl xl:text-6xl ">
+								<div className="font-mont font-extrabold bg-clip-text text-transparent text-3xl bg-fondoT bg-cover bg-left lg:text-5xl xl:text-4xl ">
 									CHAR
 								</div>
-								<div className="text-black font-mont font-extrabold bg-left-top bg-clip-text text-transparent text-4xl	bg-fondoT bg-cover lg:text-5xl xl:text-6xl ">
+								<div className="text-black font-mont font-extrabold bg-left-top bg-clip-text text-transparent text-3xl	bg-fondoT bg-cover lg:text-5xl xl:text-4xl ">
 									GER
 								</div>
 								{/* <div className="text-black font-mont font-extrabold text-2xl lx:text-1xl">
@@ -72,14 +72,14 @@ const Products = () => {
 								//width="100px"
 							/>
 							<div className="flex-col -space-y-2 p-10 lg:p-0 ">
-								<div className="text-black font-mont font-normal text-3xl lx:text-1xl">
+								<div className="text-black font-mont font-normal text-3xl xl:text-2xl">
 									FAST
 								</div>
 
-								<div className="font-mont font-extrabold bg-clip-text text-transparent text-4xl bg-fondoT bg-cover bg-left lg:text-5xl xl:text-6xl ">
+								<div className="font-mont font-extrabold bg-clip-text text-transparent text-3xl bg-fondoT bg-cover bg-left lg:text-5xl xl:text-4xl ">
 									CHAR
 								</div>
-								<div className="text-black font-mont font-extrabold bg-left-top bg-clip-text text-transparent text-4xl	bg-fondoT bg-cover lg:text-5xl xl:text-6xl ">
+								<div className="text-black font-mont font-extrabold bg-left-top bg-clip-text text-transparent text-3xl	bg-fondoT bg-cover lg:text-5xl xl:text-4xl ">
 									GER
 								</div>
 								{/* <div className="text-black font-mont font-extrabold text-2xl lx:text-1xl">
@@ -99,14 +99,14 @@ const Products = () => {
 								//width="100px"
 							/>
 							<div className="flex-col -space-y-2 p-10 lg:p-0 ">
-								<div className="text-black font-mont font-normal text-3xl lx:text-1xl">
+								<div className="text-black font-mont font-normal text-3xl xl:text-2xl">
 									FAST
 								</div>
 
-								<div className="font-mont font-extrabold bg-clip-text text-transparent text-4xl bg-fondoT bg-cover bg-left lg:text-5xl xl:text-6xl ">
+								<div className="font-mont font-extrabold bg-clip-text text-transparent text-3xl bg-fondoT bg-cover bg-left lg:text-5xl xl:text-4xl ">
 									CHAR
 								</div>
-								<div className="text-black font-mont font-extrabold bg-left-top bg-clip-text text-transparent text-4xl	bg-fondoT bg-cover lg:text-5xl xl:text-6xl ">
+								<div className="text-black font-mont font-extrabold bg-left-top bg-clip-text text-transparent text-3xl	bg-fondoT bg-cover lg:text-5xl xl:text-4xl ">
 									GER
 								</div>
 								{/* <div className="text-black font-mont font-extrabold text-2xl lx:text-1xl">
@@ -126,14 +126,14 @@ const Products = () => {
 								//width="100px"
 							/>
 							<div className="flex-col -space-y-2 p-10 lg:p-0 ">
-								<div className="text-black font-mont font-normal text-3xl lx:text-1xl">
+								<div className="text-black font-mont font-normal text-3xl xl:text-2xl">
 									FAST
 								</div>
 
-								<div className="font-mont font-extrabold bg-clip-text text-transparent text-4xl bg-fondoT bg-cover bg-left lg:text-5xl xl:text-6xl ">
+								<div className="font-mont font-extrabold bg-clip-text text-transparent text-3xl bg-fondoT bg-cover bg-left lg:text-5xl xl:text-4xl ">
 									CHAR
 								</div>
-								<div className="text-black font-mont font-extrabold bg-left-top bg-clip-text text-transparent text-4xl	bg-fondoT bg-cover lg:text-5xl xl:text-6xl ">
+								<div className="text-black font-mont font-extrabold bg-left-top bg-clip-text text-transparent text-3xl	bg-fondoT bg-cover lg:text-5xl xl:text-4xl ">
 									GER
 								</div>
 								{/* <div className="text-black font-mont font-extrabold text-2xl lx:text-1xl">
