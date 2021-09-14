@@ -6,7 +6,7 @@ const ToxiikUni = () => {
 			<div className="flex flex-col p-10 lg:flex-row items-center gap-12 lg:p-28 lg:h-3/4 xl:p-28">
 				<div className="flex flex-1 flex-col items-center lg:items-start lg:h-1/5 xl:items-start xl:w-1/2">
 					<div
-						className="flex flex-col font-bold bg-clip-text -space-y-2 bg-left-bottom lg:bg-left-top  text-transparent bg-fondoT bg-cover 
+						className="flex flex-col font-extrabold bg-clip-text -space-y-2 bg-left-bottom lg:bg-left-top  text-transparent bg-fondoT bg-cover 
 							text-6xl md:text-4 lg:text-7xl text-center lg:text-left mb-6 lg:h-1/5 xl:text-9xl xl:h-3/4"
 					>
 						TOXIIK UNIVERSE

@@ -11,7 +11,7 @@ export const Header = () => {
 					// }}
 				>
 					<div className=" z-20 bg-toxiik bg-no-repeat bg-auto bg-center  lg:-translate-y-16 lg:bg-top lg:pb-10 lg:pt-48">
-						<div className=" relative z-30 bg-monta bg-cover h-12 translate-y-36 bg-center lg:h-auto py-72 lg:translate-y-1 ">
+						<div className=" relative z-30 bg-monta bg-cover h-12 translate-y-44 bg-center lg:h-auto py-72 lg:translate-y-1 ">
 							<div
 								class="absolute z-40 inset-x-0 bottom-0  bg-letra bg-auto bg-no-repeat bg-center
 								h-3
