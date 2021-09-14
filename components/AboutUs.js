@@ -35,7 +35,6 @@ const AboutUs = () => {
 						</div>
 					</div>
 					<div
-						//class="flex flex-1 flex-col items-center lg:items-start"
 						className="flex flex-1 flex-col items-center p-4 lg:items-start"
 					>
 						<div className="text-primary font-mont font-extrabold py-8 text-center text-5xl lg:text-4xl lg:text-left">

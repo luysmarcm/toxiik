@@ -27,9 +27,6 @@ const Products = () => {
 								<div className="text-black font-mont font-extrabold bg-left-top bg-clip-text text-transparent text-4xl	bg-fondoT bg-cover lg:text-5xl xl:text-6xl ">
 									GER
 								</div>
-								{/* <div className="text-black font-mont font-extrabold text-2xl lx:text-1xl">
-									travel
-								</div> */}
 							</div>
 						</div>
 					</div>
@@ -41,8 +38,7 @@ const Products = () => {
 							<img
 								className="object-cover h-80 md:h-auto lg:h-80"
 								src="./images/cargadorp.jpeg"
-								alt=""
-								//width="100px"
+								alt="cargador"
 							/>
 							<div className="flex-col -space-y-2 p-10 lg:p-0 ">
 								<div className="text-black font-mont font-normal text-3xl xl:text-2xl">
@@ -55,9 +51,6 @@ const Products = () => {
 								<div className="text-black font-mont font-extrabold bg-left-top bg-clip-text text-transparent text-3xl	bg-fondoT bg-cover lg:text-5xl xl:text-4xl ">
 									GER
 								</div>
-								{/* <div className="text-black font-mont font-extrabold text-2xl lx:text-1xl">
-									travel
-								</div> */}
 							</div>
 						</div>
 					</div>
@@ -68,8 +61,7 @@ const Products = () => {
 							<img
 								className="object-cover h-80 md:h-auto lg:h-80"
 								src="./images/cargadorp.jpeg"
-								alt=""
-								//width="100px"
+								alt="cable"
 							/>
 							<div className="flex-col -space-y-2 p-10 lg:p-0 ">
 								<div className="text-black font-mont font-normal text-3xl xl:text-2xl">
@@ -82,9 +74,6 @@ const Products = () => {
 								<div className="text-black font-mont font-extrabold bg-left-top bg-clip-text text-transparent text-3xl	bg-fondoT bg-cover lg:text-5xl xl:text-4xl ">
 									GER
 								</div>
-								{/* <div className="text-black font-mont font-extrabold text-2xl lx:text-1xl">
-									travel
-								</div> */}
 							</div>
 						</div>
 					</div>
@@ -95,8 +84,7 @@ const Products = () => {
 							<img
 								className="object-cover h-80 md:h-auto lg:h-80"
 								src="./images/cargadorp.jpeg"
-								alt=""
-								//width="100px"
+								alt="cargador"
 							/>
 							<div className="flex-col -space-y-2 p-10 lg:p-0 ">
 								<div className="text-black font-mont font-normal text-3xl xl:text-2xl">
@@ -109,9 +97,6 @@ const Products = () => {
 								<div className="text-black font-mont font-extrabold bg-left-top bg-clip-text text-transparent text-3xl	bg-fondoT bg-cover lg:text-5xl xl:text-4xl ">
 									GER
 								</div>
-								{/* <div className="text-black font-mont font-extrabold text-2xl lx:text-1xl">
-									travel
-								</div> */}
 							</div>
 						</div>
 					</div>
@@ -122,8 +107,7 @@ const Products = () => {
 							<img
 								className="object-cover h-80 md:h-auto lg:h-80"
 								src="./images/cargadorp.jpeg"
-								alt=""
-								//width="100px"
+								alt="cargador"
 							/>
 							<div className="flex-col -space-y-2 p-10 lg:p-0 ">
 								<div className="text-black font-mont font-normal text-3xl xl:text-2xl">
@@ -136,9 +120,6 @@ const Products = () => {
 								<div className="text-black font-mont font-extrabold bg-left-top bg-clip-text text-transparent text-3xl	bg-fondoT bg-cover lg:text-5xl xl:text-4xl ">
 									GER
 								</div>
-								{/* <div className="text-black font-mont font-extrabold text-2xl lx:text-1xl">
-									travel
-								</div> */}
 							</div>
 						</div>
 					</div>

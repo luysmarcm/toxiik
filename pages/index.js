@@ -17,16 +17,17 @@ export default function Home() {
 	];
 	return (
 		<div>
-			<Head>
+			{/* <Head>
 				<title>Toxiik</title>
+				
 				<link rel="icon" href="/favicon.ico" />
-			</Head>
+			</Head> */}
 			<header>
 				<NavBar navigation={navigation} />
 				<Header />
 			</header>
 			<main>
-				<AboutUs/>
+				<AboutUs />
 				<Products />
 				<ToxiikUni />
 			</main>
