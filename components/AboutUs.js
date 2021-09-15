@@ -6,16 +6,13 @@ const AboutUs = () => {
 	
     return (
 			<section id="about" class="relative bg-black py-32 lg:py-32">
-				<div
-					
-					className="flex flex-col-reverse  lg:flex-row items-center gap-12 sm:gap-10 lg:p-8"
-				>
+				<div className="flex flex-col-reverse  lg:flex-row items-center gap-12 sm:gap-10 lg:p-8">
 					<div class="flex space-x-4 justify-center flex-1 ">
 						<div className="lg:-translate-x-28">
 							<div
 								className=" relative z-20 bg-cover bg-center h-auto items-center  md:flex lg:transform lg:-translate-y-10 "
 								style={{
-									backgroundImage: "url('./images/cable10.svg')",
+									backgroundImage: "url('./images/cable10.webp')",
 								}}
 							>
 								<figure className=" z-0 md:flex rounded-xl md:p-0">
@@ -34,9 +31,7 @@ const AboutUs = () => {
 							</div>
 						</div>
 					</div>
-					<div
-						className="flex flex-1 flex-col items-center p-4 lg:items-start"
-					>
+					<div className="flex flex-1 flex-col items-center p-4 lg:items-start">
 						<div className="text-primary font-mont font-extrabold py-8 text-center text-5xl lg:text-4xl lg:text-left">
 							ABOUT US
 						</div>
@@ -49,7 +44,6 @@ const AboutUs = () => {
 					</div>
 				</div>
 			</section>
-			
 		);
 }
 

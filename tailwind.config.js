@@ -27,7 +27,7 @@ module.exports = {
 				fondoT: "url('/images/Fondo7.jpg')",
 				banner: "url('/images/banner3.jpg')",
 				toxiik: "url('/images/toxiikW.svg')",
-				monta: "url('/images/8.svg')",
+				monta: "url('/images/monta.webp)",
 				letra: "url('/images/CHARGE.svg')",
 				//"footer-texture": "url('/img/footer-texture.png')",
 			}),
