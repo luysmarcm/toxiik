@@ -85,7 +85,7 @@ const Products = () => {
 						<div className="flex p-12 -space-x-9 lg:-space-x-0 md:flex-row lg:flex-row items-center lg:items-center">
 							<img
 								className="object-cover h-80 md:h-auto lg:h-80"
-								src="./images/Pr2.webp"
+								src="./images/pr2.webp"
 								alt="cargador"
 							/>
 							<div className="flex-col -space-y-2 p-10 lg:p-0 ">
