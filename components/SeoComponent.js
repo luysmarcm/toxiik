@@ -12,10 +12,7 @@ const SeoComponent = ({ title, description, image }) => (
 			content={description}
 		/>
 		<meta property="og:site_name" content={title} />
-		<meta
-			property="og:image"
-			content="https://toxiik.vercel.app/images/to.png"
-		/>
+		<meta property="og:image" content={`${image}`} />
 		<meta property="og:image:width" content="684" />
 		<meta property="og:image:height" content="328" />
 	</Head>

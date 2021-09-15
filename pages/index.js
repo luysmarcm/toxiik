@@ -21,6 +21,7 @@ export default function Home() {
 			<SeoComponent
 				title="TOXIIK"
 				description="Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+				image="/images/to.png"
 			/>
 			<header>
 				<NavBar navigation={navigation} />
