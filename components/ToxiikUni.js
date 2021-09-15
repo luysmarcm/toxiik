@@ -2,7 +2,7 @@ import React from "react";
 
 const ToxiikUni = () => {
 	return (
-		<section class="relative w-auto">
+		<section class="relative w-auto py-14">
 			<div className="flex flex-col p-2 lg:flex-row items-center gap-12 lg:p-28 lg:h-3/4 xl:p-28">
 				<div className="flex flex-1 flex-col items-center lg:items-start lg:h-1/5 xl:items-start xl:w-1/2">
 					<div

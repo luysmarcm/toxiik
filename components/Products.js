@@ -2,7 +2,7 @@ import React from "react";
 
 const Products = () => {
 	return (
-		<section id="products" class="relative w-auto py-10">
+		<section id="products" class="relative w-auto py-10 overflow-hidden">
 			<div className="text-primary font-mont font-extrabold py-16 text-center text-4xl lg:text-8x1 xl:text-9x1">
 				OUR PRODUCTS
 			</div>
@@ -11,10 +11,12 @@ const Products = () => {
 					<div className="flex justify-center aspect-w-4 aspect-h-3 lg:aspect-h-4 ">
 						<div className="flex flex-row p-12 -space-x-9 lg:-space-x-0 md:flex-row	 lg:flex-row items-center">
 							<img
-								className="object-cover h-80 md:h-auto lg:h-auto"
-								src="./images/pr3.webp"
-								alt="cargador"
-								width="230px"
+								className="object-cover h-80 md:h-auto lg:object-scale-down lg:h-auto	"
+								src="./images/p4.webp"
+								alt="cable"
+								max-width="100%"
+								width="60%"
+								height="60%"
 							/>
 							<div className="flex-col -space-y-2 p-10 lg:p-0 ">
 								<div className="text-black font-mont font-normal text-2xl lx:text-1xl">
@@ -29,12 +31,6 @@ const Products = () => {
 								</div>
 							</div>
 						</div>
-						{/* <img
-							className="object-cover object-right-bottom h-80 md:h-auto lg:h-4/5 xl:h-2/5"
-							src="./images/mano.webp"
-							alt=""
-							//width="300px"
-						/> */}
 					</div>
 				</div>
 
@@ -43,19 +39,19 @@ const Products = () => {
 						<div className="flex p-12 -space-x-9 lg:-space-x-0 md:flex-row md:items-center lg:flex-row items-center">
 							<img
 								className="object-cover h-80 md:h-auto lg:h-80"
-								src="./images/pr2.webp"
-								alt="cargador"
+								src="./images/p7.webp"
+								alt="cable"
 							/>
 							<div className="flex-col -space-y-2 p-10 lg:p-0 ">
 								<div className="text-black font-mont font-normal text-2xl xl:text-2xl">
-									TRAVEL	
+									FAST
 								</div>
 
 								<div className="font-mont font-extrabold bg-clip-text text-transparent text-3xl bg-fondoT bg-cover bg-left lg:text-5xl xl:text-4xl ">
-									CHAR
+									DATA
 								</div>
 								<div className="text-black font-mont font-extrabold bg-left-top bg-clip-text text-transparent text-3xl	bg-fondoT bg-cover lg:text-5xl xl:text-4xl ">
-									GER
+									CABLE
 								</div>
 							</div>
 						</div>
@@ -66,7 +62,7 @@ const Products = () => {
 						<div className="flex p-12 -space-x-9  lg:-space-x-0 md:flex-row lg:flex-row items-center">
 							<img
 								className="object-cover h-80 md:h-auto lg:h-80"
-								src="./images/pr3.webp"
+								src="./images/p8.webp"
 								alt="cable"
 							/>
 							<div className="flex-col -space-y-2 p-10 lg:p-0 ">
@@ -89,12 +85,12 @@ const Products = () => {
 						<div className="flex p-12 -space-x-9 lg:-space-x-0 md:flex-row lg:flex-row items-center lg:items-center">
 							<img
 								className="object-cover h-80 md:h-auto lg:h-80"
-								src="./images/cargadorp.jpeg"
+								src="./images/Pr2.webp"
 								alt="cargador"
 							/>
 							<div className="flex-col -space-y-2 p-10 lg:p-0 ">
 								<div className="text-black font-mont font-normal text-2xl xl:text-2xl">
-									FAST
+									TRAVEL
 								</div>
 
 								<div className="font-mont font-extrabold bg-clip-text text-transparent text-3xl bg-fondoT bg-cover bg-left lg:text-5xl xl:text-4xl ">
@@ -116,7 +112,7 @@ const Products = () => {
 								alt="cargador"
 							/>
 							<div className="flex-col -space-y-2 p-10 lg:p-0 ">
-								<div className="text-black font-mont font-normal text-2xl xl:text-2xl">
+								<div className="text-black font-mont font-normal text-base xl:text-2xl">
 									PORTABLE
 								</div>
 
