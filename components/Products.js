@@ -11,24 +11,30 @@ const Products = () => {
 					<div className="flex justify-center aspect-w-4 aspect-h-3 lg:aspect-h-4 ">
 						<div className="flex flex-row p-12 -space-x-9 lg:-space-x-0 md:flex-row	 lg:flex-row items-center">
 							<img
-								className="object-cover h-80 md:h-auto lg:h-4/5 xl:h-full"
-								src="./images/cargadorp.jpeg"
-								alt=""
-								//width="200px"
+								className="object-cover h-80 md:h-auto lg:h-auto"
+								src="./images/pr3.webp"
+								alt="cargador"
+								width="230px"
 							/>
 							<div className="flex-col -space-y-2 p-10 lg:p-0 ">
 								<div className="text-black font-mont font-normal text-3xl lx:text-1xl">
 									FAST
 								</div>
 
-								<div className="font-mont font-extrabold bg-clip-text text-transparent text-4xl bg-fondoT bg-cover bg-left lg:text-5xl xl:text-6xl ">
+								<div className="font-mont font-extrabold bg-clip-text text-transparent text-3xl bg-fondoT bg-cover bg-left lg:text-5xl xl:text-6xl ">
 									CHAR
 								</div>
-								<div className="text-black font-mont font-extrabold bg-left-top bg-clip-text text-transparent text-4xl	bg-fondoT bg-cover lg:text-5xl xl:text-6xl ">
-									GER
+								<div className="text-black font-mont font-extrabold bg-left-top bg-clip-text text-transparent text-3xl	bg-fondoT bg-cover lg:text-5xl xl:text-6xl ">
+									GING
 								</div>
 							</div>
 						</div>
+						{/* <img
+							className="object-cover object-right-bottom h-80 md:h-auto lg:h-4/5 xl:h-2/5"
+							src="./images/mano.webp"
+							alt=""
+							//width="300px"
+						/> */}
 					</div>
 				</div>
 
@@ -37,12 +43,12 @@ const Products = () => {
 						<div className="flex p-12 -space-x-9 lg:-space-x-0 md:flex-row md:items-center lg:flex-row items-center">
 							<img
 								className="object-cover h-80 md:h-auto lg:h-80"
-								src="./images/cargadorp.jpeg"
+								src="./images/pr2.webp"
 								alt="cargador"
 							/>
 							<div className="flex-col -space-y-2 p-10 lg:p-0 ">
 								<div className="text-black font-mont font-normal text-3xl xl:text-2xl">
-									FAST
+									TRAVEL	
 								</div>
 
 								<div className="font-mont font-extrabold bg-clip-text text-transparent text-3xl bg-fondoT bg-cover bg-left lg:text-5xl xl:text-4xl ">
@@ -60,7 +66,7 @@ const Products = () => {
 						<div className="flex p-12 -space-x-9  lg:-space-x-0 md:flex-row lg:flex-row items-center">
 							<img
 								className="object-cover h-80 md:h-auto lg:h-80"
-								src="./images/cargadorp.jpeg"
+								src="./images/pr3.webp"
 								alt="cable"
 							/>
 							<div className="flex-col -space-y-2 p-10 lg:p-0 ">
@@ -106,19 +112,19 @@ const Products = () => {
 						<div className="flex  p-12 -space-x-9 lg:-space-x-0 md:flex-row lg:flex-row items-center">
 							<img
 								className="object-cover h-80 md:h-auto lg:h-80"
-								src="./images/cargadorp.jpeg"
+								src="./images/Pr1.webp"
 								alt="cargador"
 							/>
 							<div className="flex-col -space-y-2 p-10 lg:p-0 ">
 								<div className="text-black font-mont font-normal text-3xl xl:text-2xl">
-									FAST
+									PORTABLE
 								</div>
 
 								<div className="font-mont font-extrabold bg-clip-text text-transparent text-3xl bg-fondoT bg-cover bg-left lg:text-5xl xl:text-4xl ">
-									CHAR
+									DUAL
 								</div>
 								<div className="text-black font-mont font-extrabold bg-left-top bg-clip-text text-transparent text-3xl	bg-fondoT bg-cover lg:text-5xl xl:text-4xl ">
-									GER
+									USB
 								</div>
 							</div>
 						</div>
