@@ -11,7 +11,7 @@ const SeoComponent = ({title, description, image}) => (
             property="og:description"
             content={description}
         />
-        <meta property="og:site_name" content="Toxiik" />
+        <meta property="og:site_name" content="TOXIIK" />
         {image ? (
             <meta property="og:image" content={`${image}`} />
         ) : (

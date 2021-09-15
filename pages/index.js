@@ -18,15 +18,10 @@ export default function Home() {
 	];
 	return (
 		<div>
-			{/* <Head>
-				<title>Toxiik</title>
-				
-				<link rel="icon" href="/favicon.ico" />
-			</Head> */}
 			<SeoComponent
-				title="Toxiik"
+				title="TOXIIK"
 				description="Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-				image="/images/imagen.png"
+				image="/public/images/to.png"
 			/>
 			<header>
 				<NavBar navigation={navigation} />
