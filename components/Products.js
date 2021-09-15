@@ -17,7 +17,7 @@ const Products = () => {
 								width="230px"
 							/>
 							<div className="flex-col -space-y-2 p-10 lg:p-0 ">
-								<div className="text-black font-mont font-normal text-3xl lx:text-1xl">
+								<div className="text-black font-mont font-normal text-2xl lx:text-1xl">
 									FAST
 								</div>
 
@@ -47,7 +47,7 @@ const Products = () => {
 								alt="cargador"
 							/>
 							<div className="flex-col -space-y-2 p-10 lg:p-0 ">
-								<div className="text-black font-mont font-normal text-3xl xl:text-2xl">
+								<div className="text-black font-mont font-normal text-2xl xl:text-2xl">
 									TRAVEL	
 								</div>
 
@@ -70,7 +70,7 @@ const Products = () => {
 								alt="cable"
 							/>
 							<div className="flex-col -space-y-2 p-10 lg:p-0 ">
-								<div className="text-black font-mont font-normal text-3xl xl:text-2xl">
+								<div className="text-black font-mont font-normal text-2xl xl:text-2xl">
 									FAST
 								</div>
 
@@ -93,7 +93,7 @@ const Products = () => {
 								alt="cargador"
 							/>
 							<div className="flex-col -space-y-2 p-10 lg:p-0 ">
-								<div className="text-black font-mont font-normal text-3xl xl:text-2xl">
+								<div className="text-black font-mont font-normal text-2xl xl:text-2xl">
 									FAST
 								</div>
 
@@ -116,7 +116,7 @@ const Products = () => {
 								alt="cargador"
 							/>
 							<div className="flex-col -space-y-2 p-10 lg:p-0 ">
-								<div className="text-black font-mont font-normal text-3xl xl:text-2xl">
+								<div className="text-black font-mont font-normal text-2xl xl:text-2xl">
 									PORTABLE
 								</div>
 

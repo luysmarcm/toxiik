@@ -25,7 +25,7 @@ module.exports = {
 			backgroundImage: (theme) => ({
 				//"banner": "url('/images/prueba7.jpg')",
 				fondoT: "url('/images/Fondo7.jpg')",
-				banner: "url('/images/banner3.jpg')",
+				banner: "url('/images/banner.jpg')",
 				toxiik: "url('/images/toxiikW.svg')",
 				monta: "url('/images/monta.webp)",
 				letra: "url('/images/CHARGE.svg')",
