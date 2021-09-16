@@ -11,7 +11,7 @@ const Products = () => {
 					<div className="flex justify-center aspect-w-4 aspect-h-3 lg:aspect-h-4 ">
 						<div className="flex flex-row p-12 -space-x-9 lg:-space-x-0 md:flex-row	 lg:flex-row items-center">
 							<img
-								className="object-cover h-80 md:h-auto lg:object-scale-down lg:h-auto	"
+								className="object-cover h-80 md:h-96 lg:object-scale-down lg:h-auto	"
 								src="./images/p4.webp"
 								alt="cable"
 								max-width="100%"
@@ -38,7 +38,7 @@ const Products = () => {
 					<div className="flex justify-center aspect-w-4 aspect-h-3 lg:aspect-h-4 ">
 						<div className="flex p-12 -space-x-9 lg:-space-x-0 md:flex-row md:items-center lg:flex-row items-center">
 							<img
-								className="object-cover h-80 md:h-auto lg:h-80"
+								className="object-cover h-80 md:h-96 lg:h-80"
 								src="./images/p7.webp"
 								alt="cable"
 							/>
@@ -61,7 +61,7 @@ const Products = () => {
 					<div className="flex justify-center aspect-w-4 aspect-h-3 lg:aspect-h-4 ">
 						<div className="flex p-12 -space-x-9  lg:-space-x-0 md:flex-row lg:flex-row items-center">
 							<img
-								className="object-cover h-80 md:h-auto lg:h-80"
+								className="object-cover h-80 md:h-96 lg:h-80"
 								src="./images/p8.webp"
 								alt="cable"
 							/>
@@ -84,7 +84,7 @@ const Products = () => {
 					<div className="flex justify-center aspect-w-4 aspect-h-3 lg:aspect-h-4 ">
 						<div className="flex p-12 -space-x-9 lg:-space-x-0 md:flex-row lg:flex-row items-center lg:items-center">
 							<img
-								className="object-cover h-80 md:h-auto lg:h-80"
+								className="object-cover h-80 md:h-96 lg:h-80"
 								src="./images/pr2.webp"
 								alt="cargador"
 							/>
@@ -107,7 +107,7 @@ const Products = () => {
 					<div className="flex justify-center aspect-w-4 aspect-h-3 lg:aspect-h-4">
 						<div className="flex  p-12 -space-x-9 lg:-space-x-0 md:flex-row lg:flex-row items-center">
 							<img
-								className="object-cover h-80 md:h-auto lg:h-80"
+								className="object-cover h-80 md:h-96 lg:h-80"
 								src="./images/Pr1.webp"
 								alt="cargador"
 							/>
