@@ -4,7 +4,7 @@ const Footer = () => {
     const today = new Date();
     return (
 			
-				<footer class=" bg-black p-8	">
+				<footer class=" bg-black p-8">
 					<div className="x-auto py-4 px-5 flex flex-wrap flex-col items-center lg:items-baseline">
 						<img src="./images/toxiikNa.svg" alt="" width="120px" />
 					</div>
